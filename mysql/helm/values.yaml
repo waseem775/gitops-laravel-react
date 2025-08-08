@@ -1,0 +1,4 @@
+mysqlRootPassword: root
+mysqlUser: laravel
+mysqlPassword: laravel
+mysqlDatabase: laravel
